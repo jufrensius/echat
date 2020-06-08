@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251261587741",
+    "firebase_url": "https://venus-be891.firebaseio.com",
+    "project_id": "venus-be891",
+    "storage_bucket": "venus-be891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251261587741:android:3afc7f504d8e2cc06191f4",
+        "android_client_info": {
+          "package_name": "com.example.venus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251261587741-rhtkjeo4le3tc6vi1pr5d7vismcljtgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmqSW46ofJibZ-yp2ttnPESbeJPiiXaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251261587741-rhtkjeo4le3tc6vi1pr5d7vismcljtgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
